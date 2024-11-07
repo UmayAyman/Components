@@ -1,4 +1,3 @@
-import './App.css'
 import Card from './component/Card'
 import Footer from './component/Footer'
 import Navbar from './component/Navbar'
