@@ -1,0 +1,9 @@
+.Footer {
+    text-align: center;
+    background-color: palevioletred;
+    color: rgb(242, 235, 235);
+    width: 100%;
+    position: fixed;
+    bottom: 0%;
+    padding: 1rem;
+}
